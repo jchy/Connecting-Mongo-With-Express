@@ -5,7 +5,7 @@ Steps to run this project
 Step 1.
 - Clone this repo on your local system using following url :~
 ```js
-  https://github.com/jchy/Connection-Mongo-With-Express.git
+  https://github.com/jchy/Connecting-Mongo-With-Express.git
 ```
 Step 2.
 - Now navigate inside the < ConnectingMongoDbToExpress > folder 
